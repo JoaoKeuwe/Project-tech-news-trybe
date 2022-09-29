@@ -1,4 +1,4 @@
-# Este arquivo é usado para gerar a fixture usada nos testes do projeto
+# Este arquivo é usado para gerar a fixture usada nos testes do projet
 import json
 import pickle
 from unittest.mock import patch
