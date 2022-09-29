@@ -7,7 +7,7 @@ def fetch(url):
         response = requests.get(
             url,
              headers={
-                "user-agent": "Fake user-agent"
+                 "user-agent": "Fake user-agent"
                 },
              timeout=3
         )
